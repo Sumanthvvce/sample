@@ -1,1 +1,2 @@
-merging 2 branches
+- create 2 branches
+- merging 2 branches
